@@ -1,4 +1,4 @@
-# Willkommen bei unseren global orientierten Solution Architects
+# Willkommen bei unseren global orientierten "solution architects" bzw. den "lösungsorientierten Anwendungungsentwickler:innen".
 
 Wir sind Fachinformatiker: Anwendungsentwicklung im Rahmen einer Umschulung und legen besonderen Wert auf moderne, modellbasierte Softwarearchitekturen. Viel Spaß auf unserer Seite!
 
