@@ -24,7 +24,9 @@ Aufbau einer Community von Fachinformatiker:innen für Anwendungsentwicklung, De
 
 ## Wie kannst Du mitmachen?
 
-Wenn Du Fachinformatikerin oder Fachinformatiker für AnwenDungsentwicklung bist und dich unserer Community anschließen möchtest, dann bist Du herzlich willkommen! Hier sind einige Möglichkeiten, wie Du mitmachen kannst:
+Wenn Du Fachinformatikerin oder Fachinformatiker für Anwendungsentwicklung (oder einfach interessiert) bist und Dich unserer **Community** anschließen möchtest, dann bist Du herzlich willkommen 👍
+
+Hier sind einige Möglichkeiten, wie Du mitmachen kannst:
 
 - **Folge uns**: Klicke auf den "Follow" Button oben rechts, um über Neuigkeiten und Updates informiert zu werden.
 - **Erstelle ein Issue**: Wenn Du ein Problem hast oder eine Frage stellen möchtest, dann erstelle ein Issue in dem Repository, für welches Du Dich intereessiert und wir werden unser Bestes tun, um dir zu helfen.
@@ -34,10 +36,10 @@ Wenn Du Fachinformatikerin oder Fachinformatiker für AnwenDungsentwicklung bist
 
 ## Unsere Projekte
 
-Hier sind einige Projekte, an denen wir arbeiten:
+Hier sind einige Projekte, an denen Wir arbeiten:
 
 - [Ausbildung](https://github.com/wearesolutionarchitects/ausbildung-public) | Training, Dokumentation und Informationen zur Ausbildung
-- [La Mediterranea](https://la-mediterranea.eu) | Online-Reservierungssystem für Bars & Restaurants
+- [La Mediterranea](https://la-mediterranea.eu) | Online-Reservierungssystem für Bars & Restaurants | aktuell noch private
 
 ---
 
