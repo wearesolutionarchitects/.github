@@ -1,6 +1,8 @@
 # Fachinformatikerinnen und Fachinformatiker für Anwendungsentwicklung
 
-Wir sind ein Team von Fachinformatikerinnen und Fachinformatikern für Anwendungsentwicklung, die sich auf GitHub zusammengefunden haben.  
+![Solution Architects](01-github.png)
+
+Wir sind ein agiles, internationales und multikulturelles [Team](https://github.com/orgs/wearesolutionarchitects/people) von Fachinformatikerinnen und Fachinformatikern für Anwendungsentwicklung - die sich während der Umschulung, in den Praktikas kennengerlernt haben und auf auf GitHub für einen konstruktiven Erfahrungs-Austausch zusammengeschlossen haben.  
 
 Wir sind hier, um uns gegenseitig zu unterstützen 👍, voneinander zu lernen 📖 und **gemeinsam** an Projekten zu arbeiten.
 
@@ -8,8 +10,7 @@ Wir sind hier, um uns gegenseitig zu unterstützen 👍, voneinander zu lernen �
 
 ## Unsere Mission
 
-Unsere Mission ist es, eine Community von Fachinformatikerinnen und Fachinformatikern für Anwendungsentwicklung aufzubauen, die sich gegenseitig unterstützen und voneinander lernen.  
-Wir wollen gemeinsam an Projekten arbeiten, um unsere Fähigkeiten zu verbessern und neue Technologien zu erkunden.
+Unsere Mission ist es, eine Community von Fachinformatikerinnen und Fachinformatikern für Anwendungsentwicklung aufzubauen, die gemeinsam an Projekten arbeiten, um durch die vorhanenden individuellen Fähigkeiten zu verbessern und zusammen neue Technologien zu erkunden.
 
 ---
 
@@ -27,21 +28,11 @@ Wenn du Fachinformatikerin oder Fachinformatiker für Anwendungsentwicklung bist
 
 Hier sind einige Projekte, an denen wir arbeiten:
 
-- La Mediterranea
-- Quiz (LEKs)
-- AP (Abschlussprüfung Teil 1 und 2)
-- Praktikum
+- [Ausbildung](https://github.com/wearesolutionarchitects/ausbildung-public) | Training, Dokumentation und Informationen zur Ausbildung
+- [La Mediterranea](https://la-mediterranea.eu) | Online-Reservierungssystem für Bars & Restaurants
 
 ---
 
-## Willkommen im Team 🙌
+## Unsere Github-Stats
 
-### Heiko Fanieng
-
-### Hiba Al-Anssari
-
-### Katrin Kraus
-
-### Puya Khandany
-
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wearesolutionarchitects&show_icons=true&theme=radical&count_private=true&hide=prs,issues&hide_title=true)
