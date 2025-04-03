@@ -1,4 +1,4 @@
-# Fachinformatikerinnen und Fachinformatiker für Anwendungsentwicklung
+# Fachinformatiker:innen für Anwendungsentwicklung
 
 ![Solution Architects](01-github.png)
 
