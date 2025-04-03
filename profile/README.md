@@ -2,9 +2,13 @@
 
 ![Solution Architects](01-github.png)
 
-Wir sind ein agiles, internationales und multikulturelles [Team](https://github.com/orgs/wearesolutionarchitects/people) von Fachinformatikerinnen und Fachinformatikern für Anwendungsentwicklung - die sich während der Umschulung, in den Praktikas kennengerlernt haben und auf auf GitHub für einen konstruktiven Erfahrungs-Austausch zusammengeschlossen haben.  
+- Wir sind ein agiles, internationales und multikulturelles [Team](https://github.com/orgs/wearesolutionarchitects/people) von Fachinformatikerinnen und Fachinformatikern für Anwendungsentwicklung.
 
-Wir sind hier, um uns gegenseitig zu unterstützen 👍, voneinander zu lernen 📖 und **gemeinsam** an Projekten zu arbeiten.
+- Wir haben uns innerhalb einer Umschulungsmassnahme bei unterschiedlichen Bildungsträgern und in unterschieldichen Praktikas  kennengelernt und dabei das Potential der **Synergie-Effekte** erkannt!
+
+- Dabei haben wir feststellen dürfen - wie wertvoll es ist, sich auch über unterschliedliche Bildungsträger, Praktikums-Betriebe und Ausbildungsjahrgänge hinweg auszutauschen zu können 🙏
+
+Deshalb sind wir hier, um uns gegenseitig zu unterstützen 👍, voneinander zu lernen 📖 und **gemeinsam** an Projekten zu arbeiten.
 
 ---
 
