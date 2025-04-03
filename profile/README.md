@@ -1,7 +1,8 @@
 # Fachinformatikerinnen und Fachinformatiker für Anwendungsentwicklung
 
 Wir sind ein Team von Fachinformatikerinnen und Fachinformatikern für Anwendungsentwicklung, die sich auf GitHub zusammengefunden haben.  
-Wir sind hier, um uns gegenseitig zu unterstützen, voneinander zu lernen und gemeinsam an Projekten zu arbeiten.
+
+Wir sind hier, um uns gegenseitig zu unterstützen 👍, voneinander zu lernen 📖 und **gemeinsam** an Projekten zu arbeiten.
 
 ---
 
