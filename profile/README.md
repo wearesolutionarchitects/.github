@@ -10,7 +10,7 @@ Wir sind hier, um uns gegenseitig zu unterstützen 👍, voneinander zu lernen �
 
 ## Unsere Mission
 
-Unsere Mission ist es, eine Community von Fachinformatikerinnen und Fachinformatikern für Anwendungsentwicklung aufzubauen, die gemeinsam an Projekten arbeiten, um durch die vorhanenden individuellen Fähigkeiten zu verbessern und zusammen neue Technologien zu erkunden.
+Unsere Mission ist es, eine Community von Fachinformatikerinnen und Fachinformatikern für Anwendungsentwicklung aufzubauen, die gemeinsam an Projekten arbeiten, um dadurch die vorhanenden individuellen Fähigkeiten zu verbessern und zusammen neue Technologien zu erkunden.
 
 ---
 
