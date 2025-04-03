@@ -2,7 +2,7 @@
 
 ![Solution Architects](01-github.png)
 
-- Wir sind ein agiles, internationales und multikulturelles [Team](https://github.com/orgs/wearesolutionarchitects/people) von Fachinformatikerinnen und Fachinformatikern für Anwendungsentwicklung.
+- Wir sind ein agiles, internationales und multikulturelles [Team](https://github.com/orgs/wearesolutionarchitects/people) von Fachinformatiker:innen für Anwendungsentwicklung.
 
 - Wir haben uns innerhalb einer Umschulungsmassnahme bei unterschiedlichen Bildungsträgern und in unterschieldichen Praktikas  kennengelernt und dabei das Potential der **Synergie-Effekte** erkannt!
 
