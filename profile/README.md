@@ -8,7 +8,7 @@
 
 - Dabei haben wir feststellen dürfen - wie wertvoll es ist, sich auch über unterschliedliche Bildungsträger, Praktikums-Betriebe und Ausbildungsjahrgänge hinweg auszutauschen zu können 🙏
 
-Deshalb sind wir hier, um uns gegenseitig zu unterstützen 👍, voneinander zu lernen 📖 und **gemeinsam** an Projekten zu arbeiten.
+Deshalb sind wir hier, um uns gegenseitig zu unterstützen 👍, voneinander zu 📖 Lernen und **gemeinsam** an Projekten zu arbeiten.
 
 ---
 
